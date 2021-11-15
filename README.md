@@ -73,7 +73,7 @@ v1.0 | 21/05/2021 | State-Engine-Params-to-HTML | Created
 v1.0 | 21/05/2021 | ES-State-Engine-Escalate-Stage | Created 
 v1.0 | 21/05/2021 | CCI-Test-Cases-Execution | Created 
 v1.0 | 21/05/2021 | ES-State-Engine-Stage-Completed | Created
-v1.1 | 09/11/2021 | State-Engine-Configure-Definitions-UI | Created
+v1.0 | 09/11/2021 | State-Engine-Configure-Definitions-UI | Created
  
 
 
