@@ -35,8 +35,8 @@ The  module requires the following Cortex OCIs:
 
 ### Files
 The Continuous Integration module requires the following files:
-* [CTX-State-Engine.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v1.1/CTX-Logging.studiopkg)
-* [CTX-State-Engine Database create script](https://github.com/CortexIntelligentAutomation/CTX-Logging/releases/download/v1.1/Cortex-Logging-Install.sql)
+* [CTX-State-Engine.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-State-Engine/releases/download/v1.0/CTX-State-Engine.studiopkg)
+* [CTX-State-Engine Database create script](https://github.com/CortexIntelligentAutomation/CTX-State-Engine/releases/download/v1.0/Cortex-State-Engine-Install.sql)
 
 ### Other
 The Continuous Integration module has the following additional requirements:
@@ -49,9 +49,9 @@ The Continuous Integration module has the following additional requirements:
 This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
-Details of the installation can be found in the [State Engine Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/blob/master/CTX-Continuous-Integration%20-%20Deployment%20Plan.pdf).
+Details of the installation can be found in the [State Engine Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-State-Engine/blob/main/CTX-State-Engine%20-%20Deployment%20Plan.pdf).
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-Continuous-Integration/blob/master/CTX-Continuous-Integration%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-State-Engine/blob/main/CTX-State-Engine%20%20-%20%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
